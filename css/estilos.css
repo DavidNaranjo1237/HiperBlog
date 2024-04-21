@@ -1,5 +1,5 @@
 body
-{
+
 color: rb;
 text-align: center;
 font-family: "courier";
@@ -8,8 +8,10 @@ margin: 0;
 padding:0;
 }
 
-#container 
+#cabecera
 {
+    background:rgba(48, 26, 196, 0.795)  ;
+    box-sizing: border-box ;
     width: 70%;
     padding: 1cm;
     text-align:left ;
